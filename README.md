@@ -18,3 +18,9 @@ pip install numpy pandas
 <p align="center">
     <img alt="Google Sheets Import info" src="Sheets_info.png" width="200">
 </p>
+
+### To-Do:
+- [ ] Correctly implement credit card adjustments
+- [ ] Have credit card payments cancel out
+- [ ] Concatenate old data tables with new ones as more data is downloaded
+- [ ] Plaid API to get current financial data instead of manual import
